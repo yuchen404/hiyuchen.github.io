@@ -54,7 +54,7 @@ interests:
 education:
   - area: PhD Computer Science
     institution: ShanghaiTech University
-    date_start: 2021-09
+    #date_start: 2021-09-01
     # date_end: 2020-12-31
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
@@ -74,7 +74,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BEn Communication Engineering
     institution: Nanchang University
-    date_start: 2017-09
+    # date_start: 2017-09-01
     # date_end: 2020-12-31
     # summary: |
     #   GPA: 3.4/4.0
