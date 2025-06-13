@@ -39,8 +39,8 @@ profiles:
   #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/yuchen404
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=BaaYY0EAAAAJ&hl=zh-CN
   # - icon: academicons/orcid
@@ -183,5 +183,7 @@ education:
 
 ## About Me
 
-Hi! I am a forth-year Ph.D. student in the School of Information Science and Technology (SIST) at ShanghaiTech University.
-#<!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
+Hi! I am a forth-year Ph.D. student in the School of Information Science and Technology ([SIST](https://sist.shanghaitech.edu.cn/)) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/).
+
+My research interests lie in identifying and addressing problems in communication networks for distributed computation systems from a theoretical perspective, investigating notions of optimality and designing practical algorithms, in particular, designing reliable,  efficient and secure communication schemes for the distributed computation system over edge networks. 
+<!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
