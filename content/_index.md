@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color:white
         # image:
         #   # Add your image background to `assets/media/`.
         #   filename: stacked-peaks.svg
@@ -51,7 +51,7 @@ sections:
           - publication
         featured_only: true
     design:
-      view: article-grid
+      view: compact
       columns: 1
   # - block: collection
   #   content:
