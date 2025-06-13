@@ -19,7 +19,7 @@ sections:
       #   text: Download CV
       #   url: uploads/resume.pdf
     design:
-      css_class: dark
+      css_class: light
       background:
         color: white
         # image:
@@ -51,7 +51,7 @@ sections:
           - publication
         featured_only: true
     design:
-      view: compact
+      view: citation
       columns: 1
   # - block: collection
   #   content:
